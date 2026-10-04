@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.Ariana" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:navigationBarColor">#FAF8F1</item>
+        <item name="android:colorAccent">#197A68</item>
+    </style>
+</resources>

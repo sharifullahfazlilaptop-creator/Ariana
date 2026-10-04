@@ -1,0 +1,110 @@
+{
+  "version": 1,
+  "units": [
+    {
+      "id": "u1", "titlePs": "واحد ۱: سلامونه او پېژندنه", "order": 1,
+      "lessons": [
+        {"id":"u1l1","titlePs":"سلامونه","order":1,"items":[
+          {"en":"hello","ps":"سلام","tr":"salaam","exampleEn":"Hello, Ali.","examplePs":"سلام، علي.","audio":"Hello"},
+          {"en":"good morning","ps":"سهار مو پخیر","tr":"sahaar mo pakhair","exampleEn":"Good morning, Sara.","examplePs":"سهار مو پخیر، سارا.","audio":"Good morning"},
+          {"en":"goodbye","ps":"خدای پامان","tr":"khudai paamaan","exampleEn":"Goodbye, my friend.","examplePs":"خدای پامان، زما ملګریه.","audio":"Goodbye"},
+          {"en":"thank you","ps":"مننه","tr":"manana","exampleEn":"Thank you very much.","examplePs":"ډېره مننه.","audio":"Thank you"}
+        ]},
+        {"id":"u1l2","titlePs":"زه څوک یم؟","order":2,"items":[
+          {"en":"I am Ahmad","ps":"زه احمد یم","tr":"za Ahmad yam","exampleEn":"I am Ahmad.","examplePs":"زه احمد یم.","audio":"I am Ahmad"},
+          {"en":"my name is Mina","ps":"زما نوم مینه دی","tr":"zmaa num Meena dai","exampleEn":"My name is Mina.","examplePs":"زما نوم مینه دی.","audio":"My name is Mina"},
+          {"en":"I am from Kabul","ps":"زه د کابل یم","tr":"za da Kabul yam","exampleEn":"I am from Kabul.","examplePs":"زه د کابل یم.","audio":"I am from Kabul"},
+          {"en":"nice to meet you","ps":"په لیدو دې خوشحاله شوم","tr":"pa leedo de khushhaala shom","exampleEn":"Nice to meet you.","examplePs":"په لیدو دې خوشحاله شوم.","audio":"Nice to meet you"}
+        ]},
+        {"id":"u1l3","titlePs":"شمېرې ۱ تر ۱۰","order":3,"items":[
+          {"en":"one","ps":"یو","tr":"yaw","exampleEn":"One book.","examplePs":"یو کتاب.","audio":"one"},
+          {"en":"two","ps":"دوه","tr":"dwa","exampleEn":"Two pens.","examplePs":"دوه قلمونه.","audio":"two"},
+          {"en":"five","ps":"پنځه","tr":"pinza","exampleEn":"Five apples.","examplePs":"پنځه مڼې.","audio":"five"},
+          {"en":"ten","ps":"لس","tr":"las","exampleEn":"Ten minutes.","examplePs":"لس دقیقې.","audio":"ten"}
+        ]},
+        {"id":"u1l4","titlePs":"شمېرې ۱۱ تر ۲۰","order":4,"items":[
+          {"en":"eleven","ps":"یوولس","tr":"yawolas","exampleEn":"Eleven days.","examplePs":"یوولس ورځې.","audio":"eleven"},
+          {"en":"twelve","ps":"دولس","tr":"dolas","exampleEn":"Twelve months.","examplePs":"دولس میاشتې.","audio":"twelve"},
+          {"en":"fifteen","ps":"پنځلس","tr":"pinzlas","exampleEn":"Fifteen afghanis.","examplePs":"پنځلس افغانۍ.","audio":"fifteen"},
+          {"en":"twenty","ps":"شل","tr":"shal","exampleEn":"Twenty students.","examplePs":"شل زده کوونکي.","audio":"twenty"}
+        ]},
+        {"id":"u1l5","titlePs":"ساده جملې","order":5,"items":[
+          {"en":"I am happy","ps":"زه خوشحاله یم","tr":"za khushhaala yam","exampleEn":"I am happy today.","examplePs":"زه نن خوشحاله یم.","audio":"I am happy"},
+          {"en":"you are kind","ps":"ته مهربانه یې","tr":"ta mehrabaana ye","exampleEn":"You are kind.","examplePs":"ته مهربانه یې.","audio":"You are kind"},
+          {"en":"this is a book","ps":"دا کتاب دی","tr":"daa kitaab dai","exampleEn":"This is a book.","examplePs":"دا کتاب دی.","audio":"This is a book"},
+          {"en":"that is a pen","ps":"هغه قلم دی","tr":"hagha qalam dai","exampleEn":"That is a pen.","examplePs":"هغه قلم دی.","audio":"That is a pen"}
+        ]}
+      ]
+    },
+    {
+      "id": "u2", "titlePs": "واحد ۲: کورنۍ، خوراک او ورځنی کار", "order": 2,
+      "lessons": [
+        {"id":"u2l1","titlePs":"کورنۍ","order":1,"items":[
+          {"en":"father","ps":"پلار","tr":"plaar","exampleEn":"My father is here.","examplePs":"زما پلار دلته دی.","audio":"father"},
+          {"en":"mother","ps":"مور","tr":"mor","exampleEn":"My mother is kind.","examplePs":"زما مور مهربانه ده.","audio":"mother"},
+          {"en":"brother","ps":"ورور","tr":"wrور","exampleEn":"My brother is young.","examplePs":"زما ورور ځوان دی.","audio":"brother"},
+          {"en":"sister","ps":"خور","tr":"khor","exampleEn":"My sister is at home.","examplePs":"زما خور په کور کې ده.","audio":"sister"}
+        ]},
+        {"id":"u2l2","titlePs":"خوراک","order":2,"items":[
+          {"en":"bread","ps":"ډوډۍ","tr":"dodai","exampleEn":"I eat bread.","examplePs":"زه ډوډۍ خورم.","audio":"bread"},
+          {"en":"water","ps":"اوبه","tr":"oba","exampleEn":"I drink water.","examplePs":"زه اوبه څښم.","audio":"water"},
+          {"en":"rice","ps":"وریجې","tr":"wrijey","exampleEn":"Rice is hot.","examplePs":"وریجې ګرمې دي.","audio":"rice"},
+          {"en":"tea","ps":"چای","tr":"chaai","exampleEn":"I want tea.","examplePs":"زه چای غواړم.","audio":"tea"}
+        ]},
+        {"id":"u2l3","titlePs":"عام فعلونه","order":3,"items":[
+          {"en":"go","ps":"تلل","tr":"tlal","exampleEn":"I go to school.","examplePs":"زه ښوونځي ته ځم.","audio":"go"},
+          {"en":"eat","ps":"خوړل","tr":"khwaral","exampleEn":"I eat rice.","examplePs":"زه وریجې خورم.","audio":"eat"},
+          {"en":"drink","ps":"څښل","tr":"tsakhal","exampleEn":"I drink water.","examplePs":"زه اوبه څښم.","audio":"drink"},
+          {"en":"want","ps":"غوښتل","tr":"ghokhtal","exampleEn":"I want tea.","examplePs":"زه چای غواړم.","audio":"want"}
+        ]},
+        {"id":"u2l4","titlePs":"ورځنی کار","order":4,"items":[
+          {"en":"school","ps":"ښوونځی","tr":"showundzai","exampleEn":"I go to school.","examplePs":"زه ښوونځي ته ځم.","audio":"school"},
+          {"en":"work","ps":"کار","tr":"kaar","exampleEn":"I go to work.","examplePs":"زه کار ته ځم.","audio":"work"},
+          {"en":"home","ps":"کور","tr":"kor","exampleEn":"I am at home.","examplePs":"زه په کور کې یم.","audio":"home"},
+          {"en":"today","ps":"نن","tr":"nan","exampleEn":"Today is good.","examplePs":"نن ښه ورځ ده.","audio":"today"}
+        ]},
+        {"id":"u2l5","titlePs":"لنډې غوښتنې","order":5,"items":[
+          {"en":"I want water","ps":"زه اوبه غواړم","tr":"za oba ghwaarum","exampleEn":"I want water, please.","examplePs":"مهرباني وکړئ، زه اوبه غواړم.","audio":"I want water"},
+          {"en":"I eat bread","ps":"زه ډوډۍ خورم","tr":"za dodai khoram","exampleEn":"I eat bread.","examplePs":"زه ډوډۍ خورم.","audio":"I eat bread"},
+          {"en":"I drink tea","ps":"زه چای څښم","tr":"za chaai tsakhum","exampleEn":"I drink tea.","examplePs":"زه چای څښم.","audio":"I drink tea"},
+          {"en":"I go home","ps":"زه کور ته ځم","tr":"za kor ta dzam","exampleEn":"I go home.","examplePs":"زه کور ته ځم.","audio":"I go home"}
+        ]}
+      ]
+    },
+    {
+      "id": "u3", "titlePs": "واحد ۳: لارې، وخت او پیرود", "order": 3,
+      "lessons": [
+        {"id":"u3l1","titlePs":"لارښوونې","order":1,"items":[
+          {"en":"left","ps":"چپ","tr":"chap","exampleEn":"Turn left.","examplePs":"چپ ته وګرځه.","audio":"left"},
+          {"en":"right","ps":"راست","tr":"raast","exampleEn":"Turn right.","examplePs":"راست ته وګرځه.","audio":"right"},
+          {"en":"straight","ps":"مستقیم","tr":"mustaqeem","exampleEn":"Go straight.","examplePs":"مستقیم لاړ شه.","audio":"straight"},
+          {"en":"near","ps":"نږدې","tr":"nigde","exampleEn":"The shop is near.","examplePs":"هټۍ نږدې ده.","audio":"near"}
+        ]},
+        {"id":"u3l2","titlePs":"وخت","order":2,"items":[
+          {"en":"morning","ps":"سهار","tr":"sahaar","exampleEn":"I work in the morning.","examplePs":"زه سهار کار کوم.","audio":"morning"},
+          {"en":"evening","ps":"ماښام","tr":"maashaam","exampleEn":"I study in the evening.","examplePs":"زه ماښام درس وایم.","audio":"evening"},
+          {"en":"now","ps":"اوس","tr":"os","exampleEn":"Come now.","examplePs":"اوس راشه.","audio":"now"},
+          {"en":"tomorrow","ps":"سبا","tr":"sabaa","exampleEn":"See you tomorrow.","examplePs":"سبا به سره ووینو.","audio":"tomorrow"}
+        ]},
+        {"id":"u3l3","titlePs":"نېټه او ورځې","order":3,"items":[
+          {"en":"day","ps":"ورځ","tr":"wradz","exampleEn":"Today is a good day.","examplePs":"نن ښه ورځ ده.","audio":"day"},
+          {"en":"week","ps":"اونۍ","tr":"onai","exampleEn":"One week.","examplePs":"یوه اونۍ.","audio":"week"},
+          {"en":"month","ps":"میاشت","tr":"myaasht","exampleEn":"This month is busy.","examplePs":"دا میاشت بوخته ده.","audio":"month"},
+          {"en":"year","ps":"کال","tr":"kaal","exampleEn":"One year.","examplePs":"یو کال.","audio":"year"}
+        ]},
+        {"id":"u3l4","titlePs":"پیرود","order":4,"items":[
+          {"en":"shop","ps":"هټۍ","tr":"hatai","exampleEn":"The shop is open.","examplePs":"هټۍ خلاصه ده.","audio":"shop"},
+          {"en":"money","ps":"پیسې","tr":"paise","exampleEn":"I have money.","examplePs":"زه پیسې لرم.","audio":"money"},
+          {"en":"cheap","ps":"ارزانه","tr":"arzaana","exampleEn":"This is cheap.","examplePs":"دا ارزانه دی.","audio":"cheap"},
+          {"en":"expensive","ps":"ګران","tr":"graan","exampleEn":"This is expensive.","examplePs":"دا ګران دی.","audio":"expensive"}
+        ]},
+        {"id":"u3l5","titlePs":"بیې","order":5,"items":[
+          {"en":"how much","ps":"څو دی؟","tr":"tso dai","exampleEn":"How much is this?","examplePs":"دا څو دی؟","audio":"How much"},
+          {"en":"ten afghanis","ps":"لس افغانۍ","tr":"las afghaanai","exampleEn":"It is ten afghanis.","examplePs":"دا لس افغانۍ دي.","audio":"ten afghanis"},
+          {"en":"I buy bread","ps":"زه ډوډۍ اخلم","tr":"za dodai akhlam","exampleEn":"I buy bread.","examplePs":"زه ډوډۍ اخلم.","audio":"I buy bread"},
+          {"en":"I need a bag","ps":"زه کڅوړې ته اړتیا لرم","tr":"za katsore ta artyaa laram","exampleEn":"I need a bag.","examplePs":"زه کڅوړې ته اړتیا لرم.","audio":"I need a bag"}
+        ]}
+      ]
+    }
+  ]
+}
